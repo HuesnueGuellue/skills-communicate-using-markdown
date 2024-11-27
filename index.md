@@ -5,3 +5,5 @@
 ###### This is an `<h6>` header, which is the smallest
 
 I have add diffrent types of headers.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
